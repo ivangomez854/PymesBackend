@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PymesBackend", "PymesBackend\PymesBackend.csproj", "{839BD1D0-E6ED-4B76-B180-29D609DD2BC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{87CD707C-3AA0-46FE-A85F-811E436543EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{839BD1D0-E6ED-4B76-B180-29D609DD2BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839BD1D0-E6ED-4B76-B180-29D609DD2BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839BD1D0-E6ED-4B76-B180-29D609DD2BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839BD1D0-E6ED-4B76-B180-29D609DD2BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87CD707C-3AA0-46FE-A85F-811E436543EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87CD707C-3AA0-46FE-A85F-811E436543EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87CD707C-3AA0-46FE-A85F-811E436543EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87CD707C-3AA0-46FE-A85F-811E436543EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4D818DB-916B-4D6F-A89B-534B5983D5D6}
+	EndGlobalSection
+EndGlobal
